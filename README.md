@@ -68,6 +68,9 @@ settings, the setting with the best validation score is shown.
 | Random search | 340 ± 107 | 724 |
 | *Scripted: hold right* | *258 ± 1* | *315* |
 
+**Demo:** [media/cem_demo.mp4](media/cem_demo.mp4) shows the CEM agent playing 5
+test episodes. In 3 of them it reaches x=900; in the other 2 it gets stuck at x=436.
+
 - Only CEM clearly beats the 3-line scripted jumping policy.
 - No method reaches the flag within the budget.
 

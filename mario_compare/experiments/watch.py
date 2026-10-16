@@ -126,7 +126,7 @@ def main():
         if args.save:
             if writer is None:
                 h, w = frame.shape[:2]
-                writer = cv2.VideoWriter(args.save, cv2.VideoWriter_fourcc(*"mp4v"),
+                writer = cv2.VideoWriter(args.save, cv2.VideoWriter_fourcc(*"avc1"),
                                          args.fps, (w, h))
             for _ in range(max(1, wait_ms * args.fps // 1000)):
                 writer.write(frame)
