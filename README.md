@@ -1,5 +1,10 @@
 # Mario Optimiser Benchmark
 
+<p align="center">
+  <img src="media/cem_demo.gif" width="384" alt="CEM agent playing Super Mario Bros 1-1">
+  <br><em>The best agent (CEM) playing a test episode.</em>
+</p>
+
 A fair head-to-head comparison of optimisation methods that learn to play
 **Super Mario Bros 1-1**. Eight evolution methods have been benchmarked: random
 search, hill climbing, GA, ES, CEM, CMA-ES, novelty search and MAP-Elites.
@@ -68,8 +73,8 @@ settings, the setting with the best validation score is shown.
 | Random search | 340 ± 107 | 724 |
 | *Scripted: hold right* | *258 ± 1* | *315* |
 
-**Demo:** [media/cem_demo.mp4](media/cem_demo.mp4) shows the CEM agent playing 5
-test episodes. In 3 of them it reaches x=900; in the other 2 it gets stuck at x=436.
+**Longer demo:** [media/cem_demo.mp4](media/cem_demo.mp4) shows the CEM agent
+playing 5 test episodes. In 3 of them it reaches x=900; in the other 2 it gets stuck at x=436.
 
 - Only CEM clearly beats the 3-line scripted jumping policy.
 - No method reaches the flag within the budget.
