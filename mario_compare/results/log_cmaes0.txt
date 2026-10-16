@@ -1,0 +1,47 @@
+  [cmaes] it=  1 best=  394.3 mean=   77.5 sigma=0.1000  budget=1.8%
+  [cmaes] it=  2 best=  394.0 mean=   97.8 sigma=0.0992  budget=3.6%
+  [cmaes] it=  3 best=  241.0 mean=  112.0 sigma=0.0994  budget=5.2%
+  [cmaes] it=  4 best=  395.0 mean=  195.8 sigma=0.1010  budget=6.7%
+  [cmaes] it=  5 best=  345.7 mean=  212.9 sigma=0.1037  budget=8.2%
+  [cmaes] it=  6 best=  554.3 mean=  248.0 sigma=0.1061  budget=10.0%
+  [cmaes] it=  7 best=  396.7 mean=  190.3 sigma=0.1085  budget=11.8%
+  [cmaes] it=  8 best=  501.0 mean=  273.1 sigma=0.1120  budget=14.0%
+  [cmaes] it=  9 best=  698.0 mean=  258.7 sigma=0.1127  budget=15.8%
+  [cmaes] it= 10 best=  513.0 mean=  258.7 sigma=0.1132  budget=17.4%
+  [cmaes] it= 11 best=  555.0 mean=  242.2 sigma=0.1136  budget=19.3%
+  [cmaes] it= 12 best=  447.7 mean=  264.2 sigma=0.1138  budget=21.3%
+  [cmaes] it= 13 best=  555.0 mean=  297.9 sigma=0.1144  budget=23.2%
+  [cmaes] it= 14 best=  592.3 mean=  312.4 sigma=0.1148  budget=25.5%
+  [cmaes] it= 15 best=  555.0 mean=  295.5 sigma=0.1141  budget=27.6%
+  [cmaes] it= 16 best=  454.3 mean=  305.0 sigma=0.1145  budget=29.7%
+  [cmaes] it= 17 best=  554.7 mean=  314.3 sigma=0.1139  budget=32.3%
+  [cmaes] it= 18 best=  554.3 mean=  331.3 sigma=0.1146  budget=34.9%
+  [cmaes] it= 19 best=  632.7 mean=  336.5 sigma=0.1142  budget=37.3%
+  [cmaes] it= 20 best=  636.0 mean=  337.4 sigma=0.1126  budget=39.7%
+  [cmaes] it= 21 best=  648.3 mean=  376.2 sigma=0.1109  budget=42.3%
+  [cmaes] it= 22 best=  555.0 mean=  375.2 sigma=0.1084  budget=45.0%
+  [cmaes] it= 23 best=  582.7 mean=  356.1 sigma=0.1055  budget=47.4%
+  [cmaes] it= 24 best=  608.0 mean=  326.0 sigma=0.1029  budget=49.6%
+  [cmaes] it= 25 best=  637.3 mean=  386.1 sigma=0.1022  budget=52.3%
+  [cmaes] it= 26 best=  636.7 mean=  427.4 sigma=0.1005  budget=55.1%
+  [cmaes] it= 27 best=  636.0 mean=  356.0 sigma=0.0980  budget=57.0%
+  [cmaes] it= 28 best=  554.0 mean=  354.1 sigma=0.0966  budget=59.1%
+  [cmaes] it= 29 best=  634.0 mean=  384.3 sigma=0.0949  budget=61.6%
+  [cmaes] it= 30 best=  639.0 mean=  352.8 sigma=0.0922  budget=63.7%
+  [cmaes] it= 31 best=  637.3 mean=  485.3 sigma=0.0894  budget=66.6%
+  [cmaes] it= 32 best=  636.0 mean=  435.5 sigma=0.0865  budget=69.2%
+  [cmaes] it= 33 best=  647.7 mean=  424.5 sigma=0.0838  budget=71.9%
+  [cmaes] it= 34 best=  637.3 mean=  403.1 sigma=0.0817  budget=74.1%
+  [cmaes] it= 35 best=  637.7 mean=  540.8 sigma=0.0815  budget=77.0%
+  [cmaes] it= 36 best=  649.0 mean=  507.5 sigma=0.0813  budget=79.7%
+  [cmaes] it= 37 best=  638.0 mean=  507.0 sigma=0.0800  budget=82.5%
+  [cmaes] it= 38 best=  637.0 mean=  489.1 sigma=0.0778  budget=85.4%
+  [cmaes] it= 39 best=  637.3 mean=  450.6 sigma=0.0757  budget=88.0%
+  [cmaes] it= 40 best=  636.7 mean=  477.2 sigma=0.0752  budget=90.5%
+  [cmaes] it= 41 best=  635.3 mean=  428.8 sigma=0.0748  budget=92.7%
+  [cmaes] it= 42 best=  637.3 mean=  585.2 sigma=0.0746  budget=95.5%
+  [cmaes] it= 43 best=  636.7 mean=  525.4 sigma=0.0733  budget=98.4%
+  [cmaes] 43 iterations, 1,001,073 frames
+  [cmaes] validation: fitness=607.1 x=659.1
+  [cmaes] held-out:   fitness=620.3 x=672.3
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/cmaes_20261001-182805_seed0_sticky0.2_pop24_sig0.1_ns3_b1000k.csv

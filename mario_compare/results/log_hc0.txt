@@ -1,0 +1,29 @@
+  [hc] it=  20 parent=  258.0 child=  251.7 accepted=45%  budget=2.0%
+  [hc] it=  40 parent=  453.3 child=  297.0 accepted=40%  budget=5.3%
+  [hc] it=  60 parent=  395.3 child=  216.0 accepted=30%  budget=8.8%
+  [hc] it=  80 parent=  388.3 child=  387.0 accepted=26%  budget=12.7%
+  [hc] it= 100 parent=  494.3 child=  448.3 accepted=26%  budget=17.0%
+  [hc] it= 120 parent=  344.7 child=  406.0 accepted=22%  budget=21.3%
+  [hc] it= 140 parent=  500.7 child=  486.0 accepted=24%  budget=26.1%
+  [hc] it= 160 parent=  298.3 child=  349.7 accepted=27%  budget=31.4%
+  [hc] it= 180 parent=  622.7 child=  372.7 accepted=27%  budget=34.9%
+  [hc] it= 200 parent=  502.0 child=  394.0 accepted=29%  budget=38.8%
+  [hc] it= 220 parent=  502.7 child=  423.7 accepted=29%  budget=43.1%
+  [hc] it= 240 parent=  526.7 child=  238.7 accepted=27%  budget=46.9%
+  [hc] it= 260 parent=  395.0 child=  343.0 accepted=26%  budget=50.5%
+  [hc] it= 280 parent=  521.3 child=  244.7 accepted=24%  budget=54.1%
+  [hc] it= 300 parent=  499.3 child=  299.0 accepted=23%  budget=57.5%
+  [hc] it= 320 parent=  499.7 child=  248.7 accepted=21%  budget=60.8%
+  [hc] it= 340 parent=  550.0 child=  424.0 accepted=20%  budget=64.3%
+  [hc] it= 360 parent=  376.3 child=  546.7 accepted=21%  budget=68.0%
+  [hc] it= 380 parent=  395.0 child=  372.7 accepted=23%  budget=72.1%
+  [hc] it= 400 parent=  395.0 child=  394.7 accepted=24%  budget=75.9%
+  [hc] it= 420 parent=  395.0 child=  394.3 accepted=24%  budget=80.4%
+  [hc] it= 440 parent=  490.7 child=  394.3 accepted=25%  budget=84.9%
+  [hc] it= 460 parent=  454.3 child=  481.0 accepted=26%  budget=89.5%
+  [hc] it= 480 parent=  648.0 child=  249.3 accepted=26%  budget=93.0%
+  [hc] it= 500 parent=  526.7 child=  336.7 accepted=26%  budget=97.8%
+  [hc] 510 iterations, 1,001,170 frames
+  [hc] validation: fitness=530.3 x=576.8
+  [hc] held-out:   fitness=512.0 x=559.0
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/hc_20261001-173254_seed0_sticky0.2_sig0.05_ns3_b1000k.csv

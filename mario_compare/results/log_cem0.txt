@@ -1,0 +1,51 @@
+  [cem] it=  1 best=  338.0 mean=   76.2 avg std=0.0874  budget=1.8%
+  [cem] it=  2 best=  340.7 mean=  107.5 avg std=0.0769  budget=3.3%
+  [cem] it=  3 best=  448.0 mean=  213.5 avg std=0.0683  budget=4.8%
+  [cem] it=  4 best=  501.3 mean=  239.8 avg std=0.0621  budget=6.5%
+  [cem] it=  5 best=  447.7 mean=  208.8 avg std=0.0571  budget=8.1%
+  [cem] it=  6 best=  453.3 mean=  218.3 avg std=0.0534  budget=9.8%
+  [cem] it=  7 best=  375.3 mean=  142.2 avg std=0.0504  budget=11.4%
+  [cem] it=  8 best=  394.3 mean=  225.7 avg std=0.0480  budget=12.7%
+  [cem] it=  9 best=  394.3 mean=  189.3 avg std=0.0465  budget=14.1%
+  [cem] it= 10 best=  554.3 mean=  313.3 avg std=0.0454  budget=15.7%
+  [cem] it= 11 best=  403.7 mean=  253.1 avg std=0.0441  budget=17.1%
+  [cem] it= 12 best=  554.0 mean=  265.7 avg std=0.0434  budget=18.7%
+  [cem] it= 13 best=  645.7 mean=  317.1 avg std=0.0423  budget=20.4%
+  [cem] it= 14 best=  587.0 mean=  317.7 avg std=0.0423  budget=22.5%
+  [cem] it= 15 best=  554.7 mean=  349.2 avg std=0.0417  budget=24.3%
+  [cem] it= 16 best=  643.7 mean=  354.1 avg std=0.0413  budget=26.5%
+  [cem] it= 17 best=  625.0 mean=  376.8 avg std=0.0410  budget=28.7%
+  [cem] it= 18 best=  570.7 mean=  400.1 avg std=0.0410  budget=30.9%
+  [cem] it= 19 best=  580.3 mean=  309.2 avg std=0.0407  budget=32.6%
+  [cem] it= 20 best=  556.0 mean=  362.2 avg std=0.0406  budget=34.8%
+  [cem] it= 21 best=  582.3 mean=  417.8 avg std=0.0404  budget=37.0%
+  [cem] it= 22 best=  567.7 mean=  447.1 avg std=0.0404  budget=39.4%
+  [cem] it= 23 best=  650.7 mean=  482.1 avg std=0.0403  budget=42.0%
+  [cem] it= 24 best=  748.7 mean=  489.2 avg std=0.0404  budget=44.5%
+  [cem] it= 25 best=  653.0 mean=  483.5 avg std=0.0403  budget=47.0%
+  [cem] it= 26 best=  777.3 mean=  497.2 avg std=0.0405  budget=48.9%
+  [cem] it= 27 best=  646.7 mean=  453.5 avg std=0.0406  budget=51.3%
+  [cem] it= 28 best=  748.7 mean=  481.6 avg std=0.0405  budget=53.7%
+  [cem] it= 29 best=  654.3 mean=  404.2 avg std=0.0405  budget=55.6%
+  [cem] it= 30 best=  747.7 mean=  480.3 avg std=0.0405  budget=58.2%
+  [cem] it= 31 best=  748.0 mean=  492.6 avg std=0.0407  budget=60.6%
+  [cem] it= 32 best=  651.0 mean=  453.8 avg std=0.0407  budget=63.1%
+  [cem] it= 33 best=  682.3 mean=  499.9 avg std=0.0406  budget=65.7%
+  [cem] it= 34 best=  695.0 mean=  493.0 avg std=0.0407  budget=68.3%
+  [cem] it= 35 best=  843.7 mean=  509.2 avg std=0.0404  budget=70.9%
+  [cem] it= 36 best=  814.7 mean=  478.8 avg std=0.0403  budget=73.2%
+  [cem] it= 37 best=  649.0 mean=  440.2 avg std=0.0404  budget=75.2%
+  [cem] it= 38 best=  710.0 mean=  444.8 avg std=0.0402  budget=77.6%
+  [cem] it= 39 best=  711.0 mean=  456.6 avg std=0.0407  budget=79.9%
+  [cem] it= 40 best=  647.0 mean=  439.1 avg std=0.0411  budget=82.2%
+  [cem] it= 41 best=  844.7 mean=  488.4 avg std=0.0409  budget=84.7%
+  [cem] it= 42 best=  694.0 mean=  470.4 avg std=0.0407  budget=86.9%
+  [cem] it= 43 best=  747.7 mean=  466.9 avg std=0.0405  budget=88.9%
+  [cem] it= 44 best=  780.3 mean=  490.9 avg std=0.0407  budget=91.3%
+  [cem] it= 45 best=  845.0 mean=  488.7 avg std=0.0405  budget=93.4%
+  [cem] it= 46 best=  844.0 mean=  505.0 avg std=0.0405  budget=95.8%
+  [cem] it= 47 best=  845.0 mean=  522.9 avg std=0.0408  budget=98.2%
+  [cem] 47 iterations, 1,000,801 frames
+  [cem] validation: fitness=759.6 x=812.6
+  [cem] held-out:   fitness=686.2 x=738.2
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/cem_20261001-174604_seed0_sticky0.2_pop24_elite0.2_xstd0.02_ns3_b1000k.csv

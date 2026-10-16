@@ -1,0 +1,47 @@
+  [es] it=  1 best=  323.7 mean=   74.1  budget=1.6%
+  [es] it=  2 best=  448.3 mean=  277.5  budget=3.4%
+  [es] it=  3 best=  457.3 mean=  298.3  budget=4.9%
+  [es] it=  4 best=  492.0 mean=  285.2  budget=6.3%
+  [es] it=  5 best=  554.7 mean=  316.1  budget=7.9%
+  [es] it=  6 best=  395.3 mean=  302.2  budget=9.5%
+  [es] it=  7 best=  652.7 mean=  340.9  budget=11.2%
+  [es] it=  8 best=  525.7 mean=  342.0  budget=13.1%
+  [es] it=  9 best=  556.0 mean=  325.4  budget=14.9%
+  [es] it= 10 best=  683.0 mean=  353.7  budget=16.9%
+  [es] it= 11 best=  596.7 mean=  358.5  budget=19.1%
+  [es] it= 12 best=  597.3 mean=  389.4  budget=21.2%
+  [es] it= 13 best=  502.0 mean=  369.1  budget=23.3%
+  [es] it= 14 best=  645.0 mean=  401.5  budget=25.5%
+  [es] it= 15 best=  579.0 mean=  393.7  budget=28.0%
+  [es] it= 16 best=  644.7 mean=  378.5  budget=30.1%
+  [es] it= 17 best=  683.3 mean=  469.8  budget=32.7%
+  [es] it= 18 best=  555.0 mean=  395.3  budget=34.9%
+  [es] it= 19 best=  643.7 mean=  430.5  budget=37.1%
+  [es] it= 20 best=  600.7 mean=  400.0  budget=39.2%
+  [es] it= 21 best=  644.3 mean=  464.4  budget=41.7%
+  [es] it= 22 best=  597.3 mean=  393.8  budget=43.8%
+  [es] it= 23 best=  556.0 mean=  386.5  budget=45.9%
+  [es] it= 24 best=  578.3 mean=  420.2  budget=48.1%
+  [es] it= 25 best=  644.3 mean=  444.9  budget=50.3%
+  [es] it= 26 best=  624.3 mean=  449.0  budget=52.6%
+  [es] it= 27 best=  664.0 mean=  441.2  budget=54.8%
+  [es] it= 28 best=  597.3 mean=  465.1  budget=57.6%
+  [es] it= 29 best=  663.7 mean=  490.7  budget=60.1%
+  [es] it= 30 best=  502.0 mean=  411.9  budget=62.0%
+  [es] it= 31 best=  566.7 mean=  418.6  budget=64.4%
+  [es] it= 32 best=  663.3 mean=  476.1  budget=66.9%
+  [es] it= 33 best=  643.7 mean=  493.3  budget=69.5%
+  [es] it= 34 best=  694.0 mean=  570.6  budget=72.7%
+  [es] it= 35 best=  621.3 mean=  494.9  budget=75.4%
+  [es] it= 36 best=  663.0 mean=  523.8  budget=78.6%
+  [es] it= 37 best=  644.3 mean=  401.9  budget=80.1%
+  [es] it= 38 best=  640.7 mean=  475.3  budget=83.1%
+  [es] it= 39 best=  644.0 mean=  475.3  budget=85.8%
+  [es] it= 40 best=  662.3 mean=  506.3  budget=88.7%
+  [es] it= 41 best=  663.7 mean=  479.0  budget=91.1%
+  [es] it= 42 best=  643.7 mean=  507.2  budget=93.8%
+  [es] it= 43 best=  643.3 mean=  497.6  budget=96.3%
+  [es] it= 44 best=  663.3 mean=  530.3  budget=99.3%
+  [es] 44 iterations, held-out: fitness=595.6 x=640.6
+  [es] validation: fitness=610.9 x=655.9
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/es_20260930-015111_seed0_sticky0.2_pairs12_sig0.05_lr0.03_ns3_b1000k.csv

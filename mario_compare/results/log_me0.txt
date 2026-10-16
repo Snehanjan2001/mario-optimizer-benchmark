@@ -1,0 +1,56 @@
+  [mapelites] it=  1 batch best=  338.0 grid best=  338.0 cells=  5 placed= 7  budget=1.8%
+  [mapelites] it=  2 batch best=  349.3 grid best=  349.3 cells=  6 placed= 3  budget=3.5%
+  [mapelites] it=  3 batch best=  394.3 grid best=  394.3 cells=  8 placed= 4  budget=5.2%
+  [mapelites] it=  4 batch best=  626.3 grid best=  626.3 cells= 10 placed= 5  budget=7.1%
+  [mapelites] it=  5 batch best=  504.7 grid best=  626.3 cells= 11 placed= 2  budget=8.8%
+  [mapelites] it=  6 batch best=  491.0 grid best=  626.3 cells= 11 placed= 1  budget=10.7%
+  [mapelites] it=  7 batch best=  259.3 grid best=  626.3 cells= 11 placed= 3  budget=12.6%
+  [mapelites] it=  8 batch best=  450.7 grid best=  626.3 cells= 12 placed= 2  budget=14.4%
+  [mapelites] it=  9 batch best=  349.7 grid best=  626.3 cells= 12 placed= 0  budget=16.1%
+  [mapelites] it= 10 batch best=  555.3 grid best=  626.3 cells= 13 placed= 1  budget=18.3%
+  [mapelites] it= 11 batch best=  501.3 grid best=  626.3 cells= 13 placed= 2  budget=20.3%
+  [mapelites] it= 12 batch best=  576.0 grid best=  626.3 cells= 13 placed= 1  budget=22.4%
+  [mapelites] it= 13 batch best=  448.0 grid best=  626.3 cells= 13 placed= 0  budget=24.3%
+  [mapelites] it= 14 batch best=  555.0 grid best=  626.3 cells= 13 placed= 0  budget=26.2%
+  [mapelites] it= 15 batch best=  487.3 grid best=  626.3 cells= 13 placed= 1  budget=28.3%
+  [mapelites] it= 16 batch best=  389.3 grid best=  626.3 cells= 13 placed= 1  budget=30.0%
+  [mapelites] it= 17 batch best=  479.3 grid best=  626.3 cells= 13 placed= 1  budget=31.9%
+  [mapelites] it= 18 batch best=  432.0 grid best=  626.3 cells= 13 placed= 1  budget=33.6%
+  [mapelites] it= 19 batch best=  397.0 grid best=  626.3 cells= 13 placed= 1  budget=35.3%
+  [mapelites] it= 20 batch best=  555.3 grid best=  626.3 cells= 13 placed= 0  budget=37.3%
+  [mapelites] it= 21 batch best=  396.0 grid best=  626.3 cells= 14 placed= 2  budget=39.0%
+  [mapelites] it= 22 batch best=  555.0 grid best=  626.3 cells= 14 placed= 1  budget=41.1%
+  [mapelites] it= 23 batch best=  502.0 grid best=  626.3 cells= 14 placed= 1  budget=43.2%
+  [mapelites] it= 24 batch best=  449.0 grid best=  626.3 cells= 15 placed= 1  budget=45.2%
+  [mapelites] it= 25 batch best=  555.3 grid best=  626.3 cells= 15 placed= 1  budget=47.0%
+  [mapelites] it= 26 batch best=  521.3 grid best=  626.3 cells= 15 placed= 1  budget=48.7%
+  [mapelites] it= 27 batch best=  555.0 grid best=  626.3 cells= 15 placed= 0  budget=50.4%
+  [mapelites] it= 28 batch best=  587.3 grid best=  626.3 cells= 15 placed= 2  budget=52.6%
+  [mapelites] it= 29 batch best=  641.7 grid best=  641.7 cells= 16 placed= 2  budget=54.4%
+  [mapelites] it= 30 batch best=  430.7 grid best=  641.7 cells= 16 placed= 0  budget=56.4%
+  [mapelites] it= 31 batch best=  394.3 grid best=  641.7 cells= 16 placed= 0  budget=58.3%
+  [mapelites] it= 32 batch best=  502.0 grid best=  641.7 cells= 16 placed= 0  budget=60.2%
+  [mapelites] it= 33 batch best=  454.7 grid best=  641.7 cells= 16 placed= 0  budget=62.3%
+  [mapelites] it= 34 batch best=  510.3 grid best=  641.7 cells= 16 placed= 0  budget=64.3%
+  [mapelites] it= 35 batch best=  534.3 grid best=  641.7 cells= 16 placed= 1  budget=66.2%
+  [mapelites] it= 36 batch best=  453.3 grid best=  641.7 cells= 16 placed= 0  budget=68.0%
+  [mapelites] it= 37 batch best=  401.0 grid best=  641.7 cells= 16 placed= 0  budget=70.3%
+  [mapelites] it= 38 batch best=  456.3 grid best=  641.7 cells= 16 placed= 1  budget=72.0%
+  [mapelites] it= 39 batch best=  555.3 grid best=  641.7 cells= 16 placed= 1  budget=74.5%
+  [mapelites] it= 40 batch best=  683.3 grid best=  683.3 cells= 17 placed= 1  budget=76.3%
+  [mapelites] it= 41 batch best=  497.3 grid best=  683.3 cells= 17 placed= 1  budget=78.3%
+  [mapelites] it= 42 batch best=  382.0 grid best=  683.3 cells= 17 placed= 1  budget=79.9%
+  [mapelites] it= 43 batch best=  555.3 grid best=  683.3 cells= 17 placed= 0  budget=81.9%
+  [mapelites] it= 44 batch best=  619.3 grid best=  683.3 cells= 17 placed= 1  budget=84.0%
+  [mapelites] it= 45 batch best=  555.7 grid best=  683.3 cells= 17 placed= 0  budget=85.8%
+  [mapelites] it= 46 batch best=  395.3 grid best=  683.3 cells= 17 placed= 0  budget=87.7%
+  [mapelites] it= 47 batch best=  554.7 grid best=  683.3 cells= 17 placed= 1  budget=89.4%
+  [mapelites] it= 48 batch best=  593.0 grid best=  683.3 cells= 17 placed= 1  budget=91.3%
+  [mapelites] it= 49 batch best=  425.3 grid best=  683.3 cells= 17 placed= 0  budget=92.9%
+  [mapelites] it= 50 batch best=  570.7 grid best=  683.3 cells= 17 placed= 0  budget=94.8%
+  [mapelites] it= 51 batch best=  554.3 grid best=  683.3 cells= 17 placed= 0  budget=96.7%
+  [mapelites] it= 52 batch best=  471.0 grid best=  683.3 cells= 17 placed= 0  budget=98.6%
+  [mapelites] 52 iterations, 1,000,942 frames
+  [mapelites] validation: fitness=611.4 x=653.4
+  [mapelites] held-out:   fitness=600.4 x=641.4
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/mapelites_20261001-184853_seed0_sticky0.2_batch24_sig0.05_xover_ns3_b1000k.csv

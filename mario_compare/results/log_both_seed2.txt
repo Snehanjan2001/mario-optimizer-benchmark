@@ -1,0 +1,43 @@
+  [ga] gen=  1 best=  257.0 mean=   84.4  budget=1.7%
+  [ga] gen=  2 best=  448.0 mean=   97.7  budget=3.6%
+  [ga] gen=  3 best=  793.7 mean=  199.2  budget=5.6%
+  [ga] gen=  4 best=  554.3 mean=  204.2  budget=7.5%
+  [ga] gen=  5 best=  501.0 mean=  231.6  budget=9.2%
+  [ga] gen=  6 best=  554.0 mean=  261.2  budget=11.1%
+  [ga] gen=  7 best=  567.0 mean=  336.8  budget=13.5%
+  [ga] gen=  8 best=  561.3 mean=  294.6  budget=15.4%
+  [ga] gen=  9 best=  612.0 mean=  327.7  budget=17.8%
+  [ga] gen= 10 best=  618.0 mean=  331.6  budget=20.1%
+  [ga] gen= 11 best=  534.3 mean=  263.4  budget=22.5%
+  [ga] gen= 12 best=  454.3 mean=  292.3  budget=24.7%
+  [ga] gen= 13 best=  534.0 mean=  296.5  budget=26.9%
+  [ga] gen= 14 best=  456.3 mean=  270.7  budget=28.5%
+  [ga] gen= 15 best=  554.7 mean=  264.6  budget=30.5%
+  [ga] gen= 16 best=  554.7 mean=  334.6  budget=32.8%
+  [ga] gen= 17 best=  554.7 mean=  350.6  budget=35.6%
+  [ga] gen= 18 best=  555.0 mean=  363.6  budget=38.6%
+  [ga] gen= 19 best=  569.3 mean=  336.7  budget=40.9%
+  [ga] gen= 20 best=  554.0 mean=  328.7  budget=43.3%
+  [ga] gen= 21 best=  620.0 mean=  320.0  budget=45.5%
+  [ga] gen= 22 best=  649.0 mean=  328.4  budget=48.0%
+  [ga] gen= 23 best=  554.0 mean=  276.9  budget=50.1%
+  [ga] gen= 24 best=  639.3 mean=  368.7  budget=52.8%
+  [ga] gen= 25 best=  554.7 mean=  358.6  budget=55.7%
+  [ga] gen= 26 best=  554.7 mean=  342.8  budget=58.1%
+  [ga] gen= 27 best=  610.7 mean=  356.1  budget=60.8%
+  [ga] gen= 28 best=  677.3 mean=  422.2  budget=63.7%
+  [ga] gen= 29 best=  635.3 mean=  404.6  budget=66.4%
+  [ga] gen= 30 best=  631.3 mean=  395.5  budget=69.4%
+  [ga] gen= 31 best=  557.0 mean=  362.4  budget=72.4%
+  [ga] gen= 32 best=  663.7 mean=  411.1  budget=75.9%
+  [ga] gen= 33 best=  613.7 mean=  422.1  budget=79.0%
+  [ga] gen= 34 best=  629.3 mean=  365.4  budget=82.2%
+  [ga] gen= 35 best=  590.3 mean=  396.5  budget=84.8%
+  [ga] gen= 36 best=  618.3 mean=  373.7  budget=87.4%
+  [ga] gen= 37 best=  655.3 mean=  379.3  budget=90.0%
+  [ga] gen= 38 best=  625.3 mean=  385.6  budget=93.0%
+  [ga] gen= 39 best=  556.0 mean=  450.1  budget=96.3%
+  [ga] gen= 40 best=  650.3 mean=  419.6  budget=99.3%
+  [ga] 40 generations, held-out: fitness=551.7 x=596.2
+  [ga] validation: fitness=553.5 x=599.5
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/ga_20260930-011307_seed2_sticky0.2_pop24_sig0.05_ns3_b1000k_xover_obsboth.csv

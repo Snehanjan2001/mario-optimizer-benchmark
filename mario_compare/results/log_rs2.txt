@@ -1,0 +1,23 @@
+
+=== scripted baselines (30 held-out seeds) ===
+random_actions         fitness=   114.5 x=  156.0 best_x=  634 flag=0.00  (14631 frames)
+hold_right             fitness=   258.3 x=  313.3 best_x=  315 flag=0.00  (3183 frames)
+hold_right_jump12      fitness=   363.5 x=  418.5 best_x=  710 flag=0.00  (5085 frames)
+hold_right_jump20      fitness=   636.7 x=  691.7 best_x=  724 flag=0.00  (8881 frames)
+hold_right_jump30      fitness=   323.7 x=  378.7 best_x=  704 flag=0.00  (5073 frames)
+hold_right_jump45      fitness=   259.7 x=  314.7 best_x=  316 flag=0.00  (3573 frames)
+
+=== random weight search (budget 1,000,000 frames) ===
+  [random-search] it=   1 new best=     0.0 x=   40.0  budget=0.1%
+  [random-search] it=   2 new best=   243.7 x=  298.7  budget=0.1%
+  [random-search] it=   5 new best=   256.7 x=  311.7  budget=0.3%
+  [random-search] it=  13 new best=   258.0 x=  313.0  budget=0.8%
+  [random-search] it=  16 new best=   367.7 x=  412.7  budget=1.2%
+  [random-search] it=  29 new best=   395.3 x=  435.3  budget=2.1%
+  [random-search] it=  52 new best=   501.3 x=  541.3  budget=4.0%
+  [random-search] it= 283 new best=   502.3 x=  542.3  budget=21.1%
+  [random-search] it= 774 new best=   644.7 x=  694.7  budget=57.6%
+  [random-search] 1351 candidates evaluated, best=644.7
+  [random-search] held-out: fitness=508.6 x=559.6
+
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/baselines_20260930-002453_seed2_sticky0.2.csv

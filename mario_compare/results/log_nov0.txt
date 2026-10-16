@@ -1,0 +1,49 @@
+  [novelty] gen=  1 best=  241.7 mean=   52.4 novelty= 2.34 archive=  5  budget=1.8%
+  [novelty] gen=  2 best=  337.7 mean=  107.0 novelty= 1.14 archive= 10  budget=3.4%
+  [novelty] gen=  3 best=  477.3 mean=  135.5 novelty= 2.55 archive= 13  budget=5.3%
+  [novelty] gen=  4 best=  477.7 mean=  134.8 novelty= 2.88 archive= 16  budget=7.3%
+  [novelty] gen=  5 best=  395.3 mean=  150.3 novelty= 1.51 archive= 17  budget=9.1%
+  [novelty] gen=  6 best=  395.3 mean=  186.1 novelty= 1.60 archive= 20  budget=11.0%
+  [novelty] gen=  7 best=  395.0 mean=  209.4 novelty= 1.39 archive= 21  budget=12.6%
+  [novelty] gen=  8 best=  395.0 mean=  217.7 novelty= 1.61 archive= 22  budget=14.5%
+  [novelty] gen=  9 best=  501.7 mean=  234.1 novelty= 1.53 archive= 24  budget=16.5%
+  [novelty] gen= 10 best=  501.7 mean=  251.7 novelty= 2.27 archive= 26  budget=18.8%
+  [novelty] gen= 11 best=  502.3 mean=  257.2 novelty= 1.59 archive= 30  budget=20.7%
+  [novelty] gen= 12 best=  555.0 mean=  263.8 novelty= 1.92 archive= 32  budget=22.9%
+  [novelty] gen= 13 best=  555.7 mean=  294.6 novelty= 1.94 archive= 34  budget=25.5%
+  [novelty] gen= 14 best=  555.0 mean=  230.2 novelty= 2.12 archive= 36  budget=27.7%
+  [novelty] gen= 15 best=  587.7 mean=  233.3 novelty= 2.06 archive= 39  budget=29.8%
+  [novelty] gen= 16 best=  554.3 mean=  272.8 novelty= 2.04 archive= 42  budget=32.2%
+  [novelty] gen= 17 best=  554.7 mean=  266.0 novelty= 1.45 archive= 45  budget=34.3%
+  [novelty] gen= 18 best=  501.0 mean=  276.4 novelty= 1.25 archive= 48  budget=36.3%
+  [novelty] gen= 19 best=  554.3 mean=  280.9 novelty= 1.37 archive= 50  budget=38.3%
+  [novelty] gen= 20 best=  623.7 mean=  350.8 novelty= 1.57 archive= 53  budget=40.5%
+  [novelty] gen= 21 best=  650.3 mean=  291.0 novelty= 2.02 archive= 55  budget=42.6%
+  [novelty] gen= 22 best=  661.3 mean=  390.7 novelty= 2.21 archive= 58  budget=44.9%
+  [novelty] gen= 23 best=  661.3 mean=  377.0 novelty= 1.99 archive= 65  budget=47.5%
+  [novelty] gen= 24 best=  623.7 mean=  291.4 novelty= 1.25 archive= 67  budget=49.6%
+  [novelty] gen= 25 best=  663.3 mean=  309.1 novelty= 1.22 archive= 69  budget=51.5%
+  [novelty] gen= 26 best=  615.7 mean=  338.1 novelty= 1.58 archive= 72  budget=53.8%
+  [novelty] gen= 27 best=  623.3 mean=  344.8 novelty= 1.19 archive= 75  budget=56.0%
+  [novelty] gen= 28 best=  623.7 mean=  310.5 novelty= 1.30 archive= 76  budget=58.4%
+  [novelty] gen= 29 best=  663.0 mean=  399.6 novelty= 1.53 archive= 78  budget=61.6%
+  [novelty] gen= 30 best=  635.3 mean=  371.6 novelty= 1.12 archive= 80  budget=64.5%
+  [novelty] gen= 31 best=  638.3 mean=  381.3 novelty= 1.05 archive= 84  budget=67.2%
+  [novelty] gen= 32 best=  638.7 mean=  373.9 novelty= 0.85 archive= 87  budget=69.6%
+  [novelty] gen= 33 best=  637.0 mean=  282.2 novelty= 0.70 archive= 89  budget=71.5%
+  [novelty] gen= 34 best=  582.3 mean=  358.5 novelty= 0.58 archive= 92  budget=74.0%
+  [novelty] gen= 35 best=  644.3 mean=  389.4 novelty= 0.63 archive= 97  budget=76.8%
+  [novelty] gen= 36 best=  646.7 mean=  303.6 novelty= 0.66 archive=101  budget=78.9%
+  [novelty] gen= 37 best=  644.3 mean=  345.7 novelty= 0.90 archive=101  budget=81.4%
+  [novelty] gen= 38 best=  641.0 mean=  306.1 novelty= 1.00 archive=104  budget=83.7%
+  [novelty] gen= 39 best=  644.0 mean=  292.8 novelty= 0.46 archive=108  budget=85.9%
+  [novelty] gen= 40 best=  646.3 mean=  297.6 novelty= 0.84 archive=111  budget=88.2%
+  [novelty] gen= 41 best=  645.3 mean=  297.0 novelty= 0.43 archive=113  budget=90.3%
+  [novelty] gen= 42 best=  581.7 mean=  297.2 novelty= 0.89 archive=115  budget=92.4%
+  [novelty] gen= 43 best=  637.3 mean=  333.1 novelty= 0.58 archive=115  budget=94.9%
+  [novelty] gen= 44 best=  636.0 mean=  350.6 novelty= 0.58 archive=117  budget=97.3%
+  [novelty] gen= 45 best=  609.3 mean=  351.4 novelty= 0.62 archive=123  budget=99.9%
+  [novelty] 45 iterations, 1,000,444 frames
+  [novelty] validation: fitness=570.0 x=620.0
+  [novelty] held-out:   fitness=603.8 x=652.8
+wrote /Users/snehanjan/game_automation/mario_auto/mario_compare/results/novelty_20261001-183823_seed0_sticky0.2_pop24_sig0.05_nw0.5_xover_ns3_b1000k.csv
