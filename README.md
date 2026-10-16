@@ -1,9 +1,10 @@
 # Mario Optimiser Benchmark
 
 A fair head-to-head comparison of optimisation methods that learn to play
-**Super Mario Bros 1-1**: evolution methods (random search, hill climbing, GA,
-ES, CEM, CMA-ES, novelty search, MAP-Elites) and reinforcement learning methods
-(PPO, A2C, DQN).
+**Super Mario Bros 1-1**. Eight evolution methods have been benchmarked: random
+search, hill climbing, GA, ES, CEM, CMA-ES, novelty search and MAP-Elites.
+Reinforcement learning methods (PPO, A2C, DQN) are implemented but have not been
+run yet.
 
 All methods share the same small network (208 → 18 → 12 MLP, 3,990 weights),
 the same tile-grid observation, the same score, and the same budget of
@@ -47,6 +48,30 @@ Each script takes `--help` for its full list of options.
 
 Each run writes a CSV log and a `<method>_best_*.npy` weight file to
 `mario_compare/results/`.
+
+## Results
+
+Score on the 30 test seeds after 1,000,000 emulator frames, for every method
+that has a finished run. Runs use seed 0. Where a method was run with several
+settings, the setting with the best validation score is shown.
+
+| Method | Test fitness (mean ± std) | Furthest x |
+|---|---|---|
+| CEM | **686 ± 168** | 900 |
+| *Scripted: hold right, jump every 20 steps* | *637 ± 70* | *724* |
+| Genetic algorithm | 627 ± 114 | 722 |
+| CMA-ES | 620 ± 33 | 693 |
+| Novelty search | 604 ± 40 | 693 |
+| MAP-Elites | 600 ± 136 | 724 |
+| Evolution strategies | 596 ± 81 | 724 |
+| Hill climber | 512 ± 143 | 722 |
+| Random search | 340 ± 107 | 724 |
+| *Scripted: hold right* | *258 ± 1* | *315* |
+
+- Only CEM clearly beats the 3-line scripted jumping policy.
+- No method reaches the flag within the budget.
+
+Logs for every run are in [mario_compare/results/](mario_compare/results/).
 
 ## Project layout
 
